@@ -1,1 +1,1 @@
-# ScoYa - Ich bin ein Test
+# ScoYa
